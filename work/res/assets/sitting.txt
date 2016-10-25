@@ -1,0 +1,13 @@
+lfemur -75 10 0
+ltibia 70 0 0
+rfemur -75 -10 0
+rtibia 70 0 0
+lowerneck 10 0 0
+lhumerus -15 0 80
+rhumerus -15 0 -80
+lradius 65 0 0
+rradius 65 0 0
+rclavicle 0 0 20
+rhumerus 0 0 50
+lclavicle 0 0-20
+lhumerus 0 0 -50
